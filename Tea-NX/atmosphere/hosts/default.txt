@@ -1,0 +1,2 @@
+# Override Minecraft servers IP to BedrockConnect 
+104.238.130.180 geo.hivebedrock.network hivebedrock.network mco.mineplex.com play.inpvp.net mco.lbsg.net  mco.lbsg.net play.galaxite.net play.pixelparadise.gg bedrock.minehut.com play.cubecraft.net play.lbsg.net
